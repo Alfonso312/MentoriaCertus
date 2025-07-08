@@ -1,0 +1,39 @@
+# Archivos y carpetas de compilación Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Directorios generados por Maven
+target/
+
+# Archivos de log
+*.log
+
+# Configuración de IDEs
+*.iml
+.idea/
+*.ipr
+*.iws
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno
+.env
+
+# Archivos de test coverage
+coverage/
+*.lcov
+
+# Archivos de bases de datos temporales
+*.h2.db
+*.mv.db
+*.sqlite
+*.db
+
+# Archivos del sistema de control de versiones
+*.swp
+*.swo
