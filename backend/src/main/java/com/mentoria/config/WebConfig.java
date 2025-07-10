@@ -18,7 +18,8 @@ public class WebConfig {
                                 "http://localhost:3000",
                                 "http://localhost:3001",
                                 "http://localhost:3002",
-                                "https://main.d3rj57x47wz76k.amplifyapp.com")
+                                "https://main.d3rj57x47wz76k.amplifyapp.com",
+                                "https://main.d17bx5z5v17au0.amplifyapp.com")
                         .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
                         .allowedHeaders("*")
                         .allowCredentials(true);
